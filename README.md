@@ -1,5 +1,5 @@
 # NFT_Bot
-Monitor NFT address trading and send notifications to Telegram
+Monitor NFT smart money's address trading and send notifications to Telegram
 
 
 
